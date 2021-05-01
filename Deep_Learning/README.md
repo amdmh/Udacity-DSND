@@ -12,7 +12,7 @@ For command line applications there is an option to select either Alexnet or VGG
 
 Following arguments mandatory or optional for train_classifier.py 
 
-1.	'data_dir'. 'Provide data directory. Mandatory argument', type = str
+1.	- `data_dir`. 'Provide data directory. Mandatory argument', type = str
 2.	'--arch'. 'Alexnet can be used if this argument specified, otherwise VGG16 will be used', type = str
 3.	'--hidden_units'. 'Hidden units in Classifier. Default value is 4096', type = int
 4.	'--learning_rate'. 'Learning rate, default value 0.001', type = float
