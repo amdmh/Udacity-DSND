@@ -8,17 +8,17 @@ In Image Classifier Project.ipynb VGG16 from torchvision.models pretrained model
 
 ### Command line applications train.py and predict.py
 
-For command line applications there is an option to select either Alexnet or VGG16 models. 
+For command line applications, there is an option to select either Alexnet or VGG16 models. 
 
-Following arguments mandatory or optional for train_classifier.py 
+Following arguments mandatory or optional for *train_classifier.py* 
 
-1.	- `data_dir`. 'Provide data directory. Mandatory argument', type = str
-2.	'--arch'. 'Alexnet can be used if this argument specified, otherwise VGG16 will be used', type = str
-3.	'--hidden_units'. 'Hidden units in Classifier. Default value is 4096', type = int
-4.	'--learning_rate'. 'Learning rate, default value 0.001', type = float
-5.	'--epochs'. 'Number of epochs', Default value is 8,  type = int
-6.	'--save_dir'. 'Provide saving directory. Optional argument', type = str
-7.	'--GPU'. "Option to use GPU", type = str
+1. `data_dir`. 'Provide data directory. Mandatory argument', type = str
+2. `--arch`. 'Alexnet can be used if this argument specified, otherwise VGG16 will be used', type = str
+3. `--hidden_units`. 'Hidden units in Classifier. Default value is 4096', type = int
+4. `--learning_rate`. 'Learning rate, default value 0.001', type = float
+5. `--epochs`. 'Number of epochs', Default value is 8,  type = int
+6. `--save_dir`. 'Provide saving directory. Optional argument', type = str
+7. `--GPU`. "Option to use GPU", type = str
 
 Following arguments mandatory or optional for predict_classifier.py
 
