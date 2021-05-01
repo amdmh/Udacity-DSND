@@ -12,7 +12,7 @@ CharityML is a fictitious charity organization that provides financial support f
 ## Deep Learning
 Gain a solid foundation in neural networks, deep learning, and PyTorch.
 
-### [Project: Create an Image Classifier](https://github.com/amdmh/Udacity-DSND/tree/main/Deep_Learning)
+### [Project : Create an Image Classifier](https://github.com/amdmh/Udacity-DSND/tree/main/Deep_Learning)
 In this project, you will implement an image classification application using a a deep learning model on a dataset of images. You will then use the trained model to classify new images. First you will develop your code in a Jupyter notebook, then convert it into a python application that you will run from the command line of your system.
 
 
