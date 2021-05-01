@@ -5,7 +5,7 @@ This repository includes all the projects I have realized as part of Udacity Dat
 ## Supervised Learning
 Learn to build supervised machine learning models to make data-informed decisions. Learn to evaluate and validate the quality of your models.
 
-### [Project: Find Donors for CharityML with Kaggle](https://github.com/amdmh/Udacity-DSND/tree/main/Supervised_Learning)
+### [Project : Find Donors for CharityML with Kaggle](https://github.com/amdmh/Udacity-DSND/tree/main/Supervised_Learning)
 CharityML is a fictitious charity organization that provides financial support for people learning machine learning. In an effort to improve donor outreach effectiveness, you’ll build an algorithm that best identifies potential donors. Your goal will be to evaluate and optimize several different supervised learners to determine which algorithm will provide the highest donation yield.
 
 
